@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-07-22",
+  "kill": false,
+  "removed_ids": [],
+  "prices": {},
+  "_meta": {
+    "notes": "Dawak price layer v0. prices maps drug id -> {egp: number, as_of: date, source: string}. Empty until the launch-gate live pull (GATE-10). kill=true disables all price display in-app. removed_ids tombstones drug entries immediately (DATA-05)."
+  }
+}
